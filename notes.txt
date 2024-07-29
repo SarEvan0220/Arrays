@@ -1,0 +1,1 @@
+i have cahnged variable name as games from fruits @games.html
